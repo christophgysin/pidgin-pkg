@@ -3,7 +3,7 @@ Section: net
 Priority: optional
 Maintainer: Ari Pollak <ari@debian.org>
 Build-Depends: cdbs (>= 0.4.53), debhelper (>= 7), intltool, gconf2, vim-common,
- hardening-wrapper,
+ hardening-wrapper, libtool, libwebkitgtk-3.0-dev, libjson-glib-dev,
  libgtk-3-dev, libxss-dev, libmeanwhile-dev,
  libnss3-dev (>= 3.11.7), tcl-dev, tk-dev, libgstreamer1.0-dev,
  libgtkspell-dev, libltdl3-dev, libperl-dev,
