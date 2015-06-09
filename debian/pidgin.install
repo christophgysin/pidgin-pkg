@@ -4,5 +4,4 @@ debian/tmp/usr/lib/libpidgin.so.*
 debian/tmp/usr/lib/pidgin-3
 debian/tmp/usr/share/applications
 debian/tmp/usr/share/man/*/pidgin.*
-debian/tmp/usr/share/man/*/Pidgin.*
 debian/lintian-override/pidgin usr/share/lintian/overrides
